@@ -1,0 +1,12 @@
+Controls: 
+
+PC: 
+Jump: Left click or Z
+Dash down(bul gae form): A
+Pause: Spacebar.
+
+
+Mobile:
+Jump: tap on screen.
+Dash down(bul gae form): Double tap on screen
+Pause: Bottom right there is a pause button.
